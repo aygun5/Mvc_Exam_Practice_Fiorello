@@ -1,0 +1,19 @@
+﻿@model SliderDetailVM
+@{
+    ViewData["Title"] = "Detail";
+}
+<main>
+    <div class="container" mt-5 style="margin-right:100px">
+        <div class="card" style="width: 18rem;">
+            <img src="~/assets/img/@Model.Image" class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">Slider Id:@Model.Id</h5>
+
+                <a asp-action="Index" class="btn btn-primary">Go back</a>
+            </div>
+        </div>
+    </div>
+</main>
+
+
+ 

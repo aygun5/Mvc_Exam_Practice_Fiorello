@@ -1,0 +1,82 @@
+﻿@model StudentCreateVM
+
+<main>
+
+    <div class="container" style="margin-right:100px">
+
+        <form asp-action="Create" method="post">
+
+            <div class="mb-3">
+                <label asp-for="Name" class="form-label"> Enter Name</label>
+                <input asp-for="Name" class="form-control">
+                <div> <span asp-validation-for="Name" class="text-danger"></span></div>
+            </div>
+                        
+            <div class="mb-3">
+                <label asp-for="Surname" class="form-label"> Enter Surname</label>
+                <input asp-for="Surname" class="form-control">
+                <div> <span asp-validation-for="Surname" class="text-danger"></span></div>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Age" class="form-label"> Enter Age</label>
+                <input asp-for="Age" class="form-control">
+                <div> <span asp-validation-for="Age" class="text-danger"></span></div>
+
+                
+            </div>
+            <div class="mb-3">
+                <label asp-for="Email" class="form-label"> Enter Email</label>
+                <input asp-for="Email" class="form-control">
+                <div> <span asp-validation-for="Email" class="text-danger"></span></div>
+
+            </div>
+            <div class="mb-3">
+                <label asp-for="Adress" class="form-label"> Enter Adress</label>
+                <input asp-for="Adress" class="form-control">
+                <div> <span asp-validation-for="Adress" class="text-danger"></span></div>
+
+            </div>
+            <div class="mb-3">
+                <label asp-for="Group" class="form-label"> Enter Group</label>
+                <input asp-for="Group" class="form-control">
+                <div> <span asp-validation-for="Group" class="text-danger"></span></div>
+
+            </div>
+            <div class="mb-3">
+                <label asp-for="Phone" class="form-label"> Enter Phone</label>
+                <input asp-for="Phone" class="form-control">
+                <div> <span asp-validation-for="Phone" class="text-danger"></span></div>
+
+            </div>
+            <div class="mb-3">
+                <label asp-for="Grade" class="form-label"> Enter Grade</label>
+                <input asp-for="Grade" class="form-control">
+                <div> <span asp-validation-for="Grade" class="text-danger"></span></div>
+
+            </div>
+            <div class="mb-3">
+                <label asp-for="Faculty" class="form-label"> Enter Faculty</label>
+                <input asp-for="Faculty" class="form-control">
+                <div> <span asp-validation-for="Faculty" class="text-danger"></span></div>
+
+            </div>
+    
+            <button type="submit"
+                    class="btn btn-success">
+
+                Create
+
+            </button>
+
+            <a asp-action="Index"
+                   class="btn btn-secondary">
+
+                Go Back
+
+            </a>
+
+        </form>
+
+    </div>
+
+</main>

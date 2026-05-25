@@ -1,0 +1,17 @@
+﻿@model ExpertDetailVM
+
+@{
+    ViewData["Title"] = "Detail";
+}
+
+<div class="item text-center">
+    <div class="img">
+        <img src="~/assets/img/@Model.Image" class="img-fluid rounded-circle" alt="">
+    </div>
+    <div class="text mt-3">
+        <h6>@Model.FullName</h6>
+        <p class="text-black-50">@Model.Job</p>
+    </div>
+    <a class="btn btn-light" asp-action="Index">Go Back</a>
+</div>
+
