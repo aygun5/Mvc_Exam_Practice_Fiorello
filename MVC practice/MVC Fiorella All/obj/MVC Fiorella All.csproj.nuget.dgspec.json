@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\MVC_DataAnnotations\\data annotations\\MVC Fiorella All\\MVC Fiorella All.csproj": {}
+    "C:\\Users\\user\\Desktop\\Log in, Log out\\MVC practice\\MVC Fiorella All\\MVC Fiorella All.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\MVC_DataAnnotations\\data annotations\\MVC Fiorella All\\MVC Fiorella All.csproj": {
+    "C:\\Users\\user\\Desktop\\Log in, Log out\\MVC practice\\MVC Fiorella All\\MVC Fiorella All.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\MVC_DataAnnotations\\data annotations\\MVC Fiorella All\\MVC Fiorella All.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Log in, Log out\\MVC practice\\MVC Fiorella All\\MVC Fiorella All.csproj",
         "projectName": "MVC Fiorella All",
-        "projectPath": "C:\\Users\\user\\Desktop\\MVC_DataAnnotations\\data annotations\\MVC Fiorella All\\MVC Fiorella All.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\Log in, Log out\\MVC practice\\MVC Fiorella All\\MVC Fiorella All.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\MVC_DataAnnotations\\data annotations\\MVC Fiorella All\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Log in, Log out\\MVC practice\\MVC Fiorella All\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

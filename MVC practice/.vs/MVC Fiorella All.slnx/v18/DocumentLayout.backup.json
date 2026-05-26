@@ -1,58 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\MVC_DataAnnotations\\data annotations\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Log in, Log out\\MVC practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\MVC_DataAnnotations\\data annotations\\MVC Fiorella All\\Views\\AcountController1\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVC Fiorella All\\Views\\AcountController1\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E07A3EBA-372E-2633-B311-927D66EEC2BC}|MVC Fiorella All\\MVC Fiorella All.csproj|c:\\users\\user\\desktop\\log in, log out\\mvc practice\\mvc fiorella all\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07A3EBA-372E-2633-B311-927D66EEC2BC}|MVC Fiorella All\\MVC Fiorella All.csproj|solutionrelative:mvc fiorella all\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E07A3EBA-372E-2633-B311-927D66EEC2BC}|MVC Fiorella All\\MVC Fiorella All.csproj|c:\\users\\user\\desktop\\mvc_dataannotations\\data annotations\\mvc fiorella all\\controllers\\acountcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E07A3EBA-372E-2633-B311-927D66EEC2BC}|MVC Fiorella All\\MVC Fiorella All.csproj|solutionrelative:mvc fiorella all\\controllers\\acountcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E07A3EBA-372E-2633-B311-927D66EEC2BC}|MVC Fiorella All\\MVC Fiorella All.csproj|c:\\users\\user\\desktop\\log in, log out\\mvc practice\\mvc fiorella all\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E07A3EBA-372E-2633-B311-927D66EEC2BC}|MVC Fiorella All\\MVC Fiorella All.csproj|solutionrelative:mvc fiorella all\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\MVC_DataAnnotations\\data annotations\\MVC Fiorella All\\Views\\AcountController1\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVC Fiorella All\\Views\\AcountController1\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E07A3EBA-372E-2633-B311-927D66EEC2BC}|MVC Fiorella All\\MVC Fiorella All.csproj|c:\\users\\user\\desktop\\log in, log out\\mvc practice\\mvc fiorella all\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07A3EBA-372E-2633-B311-927D66EEC2BC}|MVC Fiorella All\\MVC Fiorella All.csproj|solutionrelative:mvc fiorella all\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E07A3EBA-372E-2633-B311-927D66EEC2BC}|MVC Fiorella All\\MVC Fiorella All.csproj|c:\\users\\user\\desktop\\mvc_dataannotations\\data annotations\\mvc fiorella all\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E07A3EBA-372E-2633-B311-927D66EEC2BC}|MVC Fiorella All\\MVC Fiorella All.csproj|solutionrelative:mvc fiorella all\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\MVC_DataAnnotations\\data annotations\\MVC Fiorella All\\Migrations\\20260525084733_CreateAppUserTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVC Fiorella All\\Migrations\\20260525084733_CreateAppUserTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E07A3EBA-372E-2633-B311-927D66EEC2BC}|MVC Fiorella All\\MVC Fiorella All.csproj|c:\\users\\user\\desktop\\mvc_dataannotations\\data annotations\\mvc fiorella all\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E07A3EBA-372E-2633-B311-927D66EEC2BC}|MVC Fiorella All\\MVC Fiorella All.csproj|solutionrelative:mvc fiorella all\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E07A3EBA-372E-2633-B311-927D66EEC2BC}|MVC Fiorella All\\MVC Fiorella All.csproj|c:\\users\\user\\desktop\\mvc_dataannotations\\data annotations\\mvc fiorella all\\services\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E07A3EBA-372E-2633-B311-927D66EEC2BC}|MVC Fiorella All\\MVC Fiorella All.csproj|solutionrelative:mvc fiorella all\\services\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E07A3EBA-372E-2633-B311-927D66EEC2BC}|MVC Fiorella All\\MVC Fiorella All.csproj|c:\\users\\user\\desktop\\mvc_dataannotations\\data annotations\\mvc fiorella all\\services\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E07A3EBA-372E-2633-B311-927D66EEC2BC}|MVC Fiorella All\\MVC Fiorella All.csproj|solutionrelative:mvc fiorella all\\services\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E07A3EBA-372E-2633-B311-927D66EEC2BC}|MVC Fiorella All\\MVC Fiorella All.csproj|c:\\users\\user\\desktop\\mvc_dataannotations\\data annotations\\mvc fiorella all\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E07A3EBA-372E-2633-B311-927D66EEC2BC}|MVC Fiorella All\\MVC Fiorella All.csproj|solutionrelative:mvc fiorella all\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E07A3EBA-372E-2633-B311-927D66EEC2BC}|MVC Fiorella All\\MVC Fiorella All.csproj|c:\\users\\user\\desktop\\mvc_dataannotations\\data annotations\\mvc fiorella all\\services\\expertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E07A3EBA-372E-2633-B311-927D66EEC2BC}|MVC Fiorella All\\MVC Fiorella All.csproj|solutionrelative:mvc fiorella all\\services\\expertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E07A3EBA-372E-2633-B311-927D66EEC2BC}|MVC Fiorella All\\MVC Fiorella All.csproj|c:\\users\\user\\desktop\\mvc_dataannotations\\data annotations\\mvc fiorella all\\areas\\admin\\controllers\\expertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E07A3EBA-372E-2633-B311-927D66EEC2BC}|MVC Fiorella All\\MVC Fiorella All.csproj|solutionrelative:mvc fiorella all\\areas\\admin\\controllers\\expertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E07A3EBA-372E-2633-B311-927D66EEC2BC}|MVC Fiorella All\\MVC Fiorella All.csproj|c:\\users\\user\\desktop\\mvc_dataannotations\\data annotations\\mvc fiorella all\\areas\\admin\\views\\expert\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E07A3EBA-372E-2633-B311-927D66EEC2BC}|MVC Fiorella All\\MVC Fiorella All.csproj|solutionrelative:mvc fiorella all\\areas\\admin\\views\\expert\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E07A3EBA-372E-2633-B311-927D66EEC2BC}|MVC Fiorella All\\MVC Fiorella All.csproj|c:\\users\\user\\desktop\\mvc_dataannotations\\data annotations\\mvc fiorella all\\areas\\admin\\views\\expert\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E07A3EBA-372E-2633-B311-927D66EEC2BC}|MVC Fiorella All\\MVC Fiorella All.csproj|solutionrelative:mvc fiorella all\\areas\\admin\\views\\expert\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E07A3EBA-372E-2633-B311-927D66EEC2BC}|MVC Fiorella All\\MVC Fiorella All.csproj|c:\\users\\user\\desktop\\log in, log out\\mvc practice\\mvc fiorella all\\services\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07A3EBA-372E-2633-B311-927D66EEC2BC}|MVC Fiorella All\\MVC Fiorella All.csproj|solutionrelative:mvc fiorella all\\services\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,70 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC_DataAnnotations\\data annotations\\MVC Fiorella All\\Views\\AcountController1\\Login.cshtml",
-              "RelativeDocumentMoniker": "MVC Fiorella All\\Views\\AcountController1\\Login.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\MVC_DataAnnotations\\data annotations\\MVC Fiorella All\\Views\\AcountController1\\Login.cshtml",
-              "RelativeToolTip": "MVC Fiorella All\\Views\\AcountController1\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-25T08:54:26.758Z",
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Log in, Log out\\MVC practice\\MVC Fiorella All\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MVC Fiorella All\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Log in, Log out\\MVC practice\\MVC Fiorella All\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MVC Fiorella All\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwDgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T08:52:31.81Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC_DataAnnotations\\data annotations\\MVC Fiorella All\\Views\\AcountController1\\Register.cshtml",
-              "RelativeDocumentMoniker": "MVC Fiorella All\\Views\\AcountController1\\Register.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\MVC_DataAnnotations\\data annotations\\MVC Fiorella All\\Views\\AcountController1\\Register.cshtml",
-              "RelativeToolTip": "MVC Fiorella All\\Views\\AcountController1\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-25T08:53:54.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AcountController1.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC_DataAnnotations\\data annotations\\MVC Fiorella All\\Controllers\\AcountController1.cs",
-              "RelativeDocumentMoniker": "MVC Fiorella All\\Controllers\\AcountController1.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\MVC_DataAnnotations\\data annotations\\MVC Fiorella All\\Controllers\\AcountController1.cs",
-              "RelativeToolTip": "MVC Fiorella All\\Controllers\\AcountController1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Log in, Log out\\MVC practice\\MVC Fiorella All\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "MVC Fiorella All\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Log in, Log out\\MVC practice\\MVC Fiorella All\\Services\\AccountService.cs",
+              "RelativeToolTip": "MVC Fiorella All\\Services\\AccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T08:52:00.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC_DataAnnotations\\data annotations\\MVC Fiorella All\\Program.cs",
-              "RelativeDocumentMoniker": "MVC Fiorella All\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\MVC_DataAnnotations\\data annotations\\MVC Fiorella All\\Program.cs",
-              "RelativeToolTip": "MVC Fiorella All\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACAAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T08:20:21.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20260525084733_CreateAppUserTable.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC_DataAnnotations\\data annotations\\MVC Fiorella All\\Migrations\\20260525084733_CreateAppUserTable.cs",
-              "RelativeDocumentMoniker": "MVC Fiorella All\\Migrations\\20260525084733_CreateAppUserTable.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\MVC_DataAnnotations\\data annotations\\MVC Fiorella All\\Migrations\\20260525084733_CreateAppUserTable.cs",
-              "RelativeToolTip": "MVC Fiorella All\\Migrations\\20260525084733_CreateAppUserTable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T08:47:34.19Z",
+              "WhenOpened": "2026-05-26T08:42:23.261Z",
               "EditorCaption": ""
             },
             {
@@ -139,105 +60,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC_DataAnnotations\\data annotations\\MVC Fiorella All\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "MVC Fiorella All\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\MVC_DataAnnotations\\data annotations\\MVC Fiorella All\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "MVC Fiorella All\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Log in, Log out\\MVC practice\\MVC Fiorella All\\Services\\Interfaces\\IAccountService.cs",
+              "RelativeDocumentMoniker": "MVC Fiorella All\\Services\\Interfaces\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Log in, Log out\\MVC practice\\MVC Fiorella All\\Services\\Interfaces\\IAccountService.cs",
+              "RelativeToolTip": "MVC Fiorella All\\Services\\Interfaces\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T08:37:33.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SliderService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC_DataAnnotations\\data annotations\\MVC Fiorella All\\Services\\SliderService.cs",
-              "RelativeDocumentMoniker": "MVC Fiorella All\\Services\\SliderService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\MVC_DataAnnotations\\data annotations\\MVC Fiorella All\\Services\\SliderService.cs",
-              "RelativeToolTip": "MVC Fiorella All\\Services\\SliderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T08:35:32.559Z",
+              "WhenOpened": "2026-05-26T08:43:22.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "StudentService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC_DataAnnotations\\data annotations\\MVC Fiorella All\\Services\\StudentService.cs",
-              "RelativeDocumentMoniker": "MVC Fiorella All\\Services\\StudentService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\MVC_DataAnnotations\\data annotations\\MVC Fiorella All\\Services\\StudentService.cs",
-              "RelativeToolTip": "MVC Fiorella All\\Services\\StudentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T08:33:42.014Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BlogService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC_DataAnnotations\\data annotations\\MVC Fiorella All\\Services\\BlogService.cs",
-              "RelativeDocumentMoniker": "MVC Fiorella All\\Services\\BlogService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\MVC_DataAnnotations\\data annotations\\MVC Fiorella All\\Services\\BlogService.cs",
-              "RelativeToolTip": "MVC Fiorella All\\Services\\BlogService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T08:36:06.795Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ExpertService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC_DataAnnotations\\data annotations\\MVC Fiorella All\\Services\\ExpertService.cs",
-              "RelativeDocumentMoniker": "MVC Fiorella All\\Services\\ExpertService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\MVC_DataAnnotations\\data annotations\\MVC Fiorella All\\Services\\ExpertService.cs",
-              "RelativeToolTip": "MVC Fiorella All\\Services\\ExpertService.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAowF8AAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T07:35:46.358Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC_DataAnnotations\\data annotations\\MVC Fiorella All\\Areas\\Admin\\Views\\Expert\\Index.cshtml",
-              "RelativeDocumentMoniker": "MVC Fiorella All\\Areas\\Admin\\Views\\Expert\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\MVC_DataAnnotations\\data annotations\\MVC Fiorella All\\Areas\\Admin\\Views\\Expert\\Index.cshtml",
-              "RelativeToolTip": "MVC Fiorella All\\Areas\\Admin\\Views\\Expert\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAxAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Log in, Log out\\MVC practice\\MVC Fiorella All\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MVC Fiorella All\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Log in, Log out\\MVC practice\\MVC Fiorella All\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "MVC Fiorella All\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-25T07:23:20.879Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ExpertController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC_DataAnnotations\\data annotations\\MVC Fiorella All\\Areas\\Admin\\Controllers\\ExpertController.cs",
-              "RelativeDocumentMoniker": "MVC Fiorella All\\Areas\\Admin\\Controllers\\ExpertController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\MVC_DataAnnotations\\data annotations\\MVC Fiorella All\\Areas\\Admin\\Controllers\\ExpertController.cs",
-              "RelativeToolTip": "MVC Fiorella All\\Areas\\Admin\\Controllers\\ExpertController.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAA/wFMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T07:06:34.021Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC_DataAnnotations\\data annotations\\MVC Fiorella All\\Areas\\Admin\\Views\\Expert\\Update.cshtml",
-              "RelativeDocumentMoniker": "MVC Fiorella All\\Areas\\Admin\\Views\\Expert\\Update.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\MVC_DataAnnotations\\data annotations\\MVC Fiorella All\\Areas\\Admin\\Views\\Expert\\Update.cshtml",
-              "RelativeToolTip": "MVC Fiorella All\\Areas\\Admin\\Views\\Expert\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-25T07:09:22.729Z"
+              "WhenOpened": "2026-05-26T07:36:43.783Z",
+              "EditorCaption": ""
             }
           ]
         }

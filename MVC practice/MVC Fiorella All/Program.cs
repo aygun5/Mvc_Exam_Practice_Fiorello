@@ -13,7 +13,7 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
 
-builder.Services.AddIdentity<AppUser,IdentityRole>(options => options.SignIn.RequireConfirmedAccount = true)
+builder.Services.AddIdentity<AppUser,IdentityRole>(options => options.SignIn.RequireConfirmedAccount = false)
     .AddEntityFrameworkStores<AppDbContext>();
 builder.Services.AddRazorPages();
 
@@ -28,15 +28,12 @@ builder.Services.Configure<IdentityOptions>(options =>
     options.Password.RequiredUniqueChars = 1;
 
     // Lockout settings.
-    options.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(5);
-    options.Lockout.MaxFailedAccessAttempts = 5;
-    options.Lockout.AllowedForNewUsers = true;
+    //options.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(5);
+    //options.Lockout.MaxFailedAccessAttempts = 5;
+    //options.Lockout.AllowedForNewUsers = true;
 
     options.User.RequireUniqueEmail = false;
 });
-
-
-
 
 builder.Services.AddScoped<ISliderInfoService,SliderInfoService>();
 builder.Services.AddScoped<ISliderService, SliderService>();
@@ -45,8 +42,7 @@ builder.Services.AddScoped<ICategoryService, CategoryService>();
 builder.Services.AddScoped<IStudentService, StudentService>();
 builder.Services.AddScoped<IFileService, FileService>();
 builder.Services.AddScoped<IExpertService, ExpertService>();
-
-
+builder.Services.AddScoped<IAccountService, AccountService>();
 
 
 var app = builder.Build();
@@ -61,7 +57,9 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthentication();
+
 app.UseAuthorization();
+
 app.MapControllerRoute(
            name: "areas",
            pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}");
