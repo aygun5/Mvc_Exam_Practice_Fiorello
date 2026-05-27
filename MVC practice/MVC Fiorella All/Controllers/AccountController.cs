@@ -1,4 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc;
+using MVC_Fiorella_All.Helpers.Enums;
+using MVC_Fiorella_All.Models;
 using MVC_Fiorella_All.Services.Interfaces;
 using MVC_Fiorella_All.ViewModels;
 using MVC_Fiorella_All.ViewModels.Account;
@@ -8,9 +11,12 @@ namespace MVC_Fiorella_All.Controllers
     public class AccountController : Controller
     {
         private readonly IAccountService _accountService;
-        public AccountController(IAccountService accountService)
+       // private readonly RoleManager<IdentityRole> _roleManager;
+        public AccountController(IAccountService accountService,
+                                 RoleManager<IdentityRole> roleManager)
         {
              _accountService = accountService;
+       //      _roleManager = roleManager;
         }
 
 
@@ -54,5 +60,30 @@ namespace MVC_Fiorella_All.Controllers
             }
             return RedirectToAction("Index", "Home");
         }
+
+        [HttpPost]
+        public async Task<IActionResult> Logout()
+        {
+            await _accountService.LogoutAsync();
+            return RedirectToAction("Index", "Home");
+        }
+
+
+        //[HttpGet]
+        //public async Task<IActionResult> CreateRole()
+        //{
+        //    foreach(var role in Enum.GetValues(typeof(Role)))
+        //    {
+        //        await _roleManager.CreateAsync(new IdentityRole { Name = role.ToString() });
+        //    }
+        //    return Ok();
+
+
+        //admin=Aygun1           parol=Salam123_
+        //member1=Zehra1         parol=Zehra123_
+        //member2=Aytac1         parol=Aytac123_
+        //member3=Bahruz1        parol=Bahruz123_
+        //member4=Isi1           parol=Ismayil123_
+        //member5=Samire1        parol=Samire123_
     }
 }

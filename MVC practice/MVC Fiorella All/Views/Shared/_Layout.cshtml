@@ -137,13 +137,21 @@
                                 <li class="nav-item">
                                     <a class="nav-link" href="#">Account</a>
                                     <ul class="list-unstyled py-3 elements">
-                                        <li class=""><a class="px-1" asp-controller="Account" asp-action="Login">Log In</a></li>
-                                        <li class=""><a class="px-1" asp-controller="Account" asp-action="Register">Register</a></li>
-                                        <li>
-                                            <form method="post" asp-controller="Account" asp-action="Log Out">
-                                                <button class="btn btn-success">Log Out</button>
+                                        @if(User.Identity.IsAuthenticated)
+                                            {
+                                                <li class="px-1">Welcome  @User.Identity.Name</li>
+                                                <li>
+                                            <form method="post">
+                                                <button  asp-controller="Account" asp-action="Logout" type="submit" class="btn btn-success">Log Out</button>
                                             </form>
-                                        </li>
+                                                </li>
+                                            }
+                                            else
+                                            {
+                                                  <li class=""><a class="px-1" asp-controller="Account" asp-action="Login">Log In</a></li>
+                                                  <li class=""><a class="px-1" asp-controller="Account" asp-action="Register">Register</a></li>
+                                            }     
+                                        
                                     </ul>
                                 </li>
                                 <li class="nav-item my-auto search">

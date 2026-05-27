@@ -1,10 +1,13 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using MVC_Fiorella_All.Services.Interfaces;
 using MVC_Fiorella_All.ViewModels.Expert;
 
 namespace MVC_Fiorella_All.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = "Admin")]
+
     public class ExpertController : Controller
     {
         private readonly IExpertService _expertService;

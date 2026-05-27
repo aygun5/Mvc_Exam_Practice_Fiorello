@@ -1,10 +1,12 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using MVC_Fiorella_All.Services.Interfaces;
 using MVC_Fiorella_All.ViewModels.Student;
 
 namespace MVC_Fiorella_All.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = "Admin")]
     public class StudentController : Controller
     {
         private readonly IStudentService _studentService;

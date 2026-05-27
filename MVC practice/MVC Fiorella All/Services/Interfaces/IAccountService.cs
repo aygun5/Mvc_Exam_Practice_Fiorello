@@ -8,5 +8,6 @@ namespace MVC_Fiorella_All.Services.Interfaces
     {
         Task<IdentityResult> RegisterAsync(RegisterVM model);
         Task<SignInResult> LoginAsync(LoginVM model);
+        Task LogoutAsync();
     }
 }

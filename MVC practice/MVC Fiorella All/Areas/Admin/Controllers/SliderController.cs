@@ -1,10 +1,12 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using MVC_Fiorella_All.Services.Interfaces;
 using MVC_Fiorella_All.ViewModels.Slider;
 
 namespace MVC_Fiorella_All.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = "Admin")]
     public class SliderController : Controller
     {
         private readonly ISliderService _sliderService;

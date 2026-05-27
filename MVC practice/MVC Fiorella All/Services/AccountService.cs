@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Identity;
+using MVC_Fiorella_All.Helpers.Enums;
 using MVC_Fiorella_All.Models;
 using MVC_Fiorella_All.Services.Interfaces;
 using MVC_Fiorella_All.ViewModels;
@@ -25,6 +26,11 @@ namespace MVC_Fiorella_All.Services
             return result;
         }
 
+        public async Task LogoutAsync()
+        {
+            await _signInManager.SignOutAsync();
+        }
+
         public async Task<IdentityResult> RegisterAsync(RegisterVM model)
         {
             var user = new AppUser
@@ -34,6 +40,7 @@ namespace MVC_Fiorella_All.Services
                 UserName = model.UserName,
             };
             var result = await _userManager.CreateAsync(user, model.Password);
+            var role = await _userManager.AddToRoleAsync(user, nameof(Role.Member));
             return result;
         }
     }
